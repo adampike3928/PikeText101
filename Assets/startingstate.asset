@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: startingstate
+  m_EditorClassIdentifier: 
+  strStoryText: "You find yourself face to face with a small group of banits. It
+    dawns on you that the middle of a forest is no place to rest. There are 3 of
+    them. They seem pretty scrawny and\r are armed with wooden clubs.\r\n\r\na1.Take
+    on the bandits. gain yen, as well as a note from their captain, reads \"With
+    all these ronin around you are bound to run into one. If ya do ambush 'em and
+    take\r\nTheir blade. It'll fetch a good price\"\r\n\r\nb1.Run away to a city"
