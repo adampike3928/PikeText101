@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  strStoryText: 'You are only able to find one lady willing to help you. She has
+    no money to give. But she can supply you with with food and a room for helping
+    her fix her roof.
+
+
+    1. Reject the lady, see if you can find any other work
+
+
+    2.Accept
+    and help the lady out
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 50543e33f206a064c8259bd9cd3dc2a7, type: 2}
+  - {fileID: 11400000, guid: 50543e33f206a064c8259bd9cd3dc2a7, type: 2}

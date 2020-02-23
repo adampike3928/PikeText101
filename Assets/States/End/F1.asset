@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
-  m_Name: Choice a1
+  m_Name: F1
   m_EditorClassIdentifier: 
-  strStoryText: This is option 1
-  NextStates: []
+  strStoryText: "You have become nothing but a raider. Killing those you once tryed
+    to protect. Fighting in wars where you have no stake besides having a meal and
+    a place to sleep. You live in regret. \n\n1. Restart"
+  nextStates:
+  - {fileID: 11400000, guid: 662a9463aa7f34c488349dcad31f5e57, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  strStoryText: 'You run as fast as your feet take you. These thugs have no chance
+    with the intence traning you''ve been through. you lose them easily. You are
+    exusted however and with no money for food you decide to find work
+
+
+    1. You
+    Look for lowpaying honest work
+
+
+    2. Working for a mercenary group sounds
+    more up your ally'
+  nextStates:
+  - {fileID: 11400000, guid: 6cdd649c3f12770499bd49493fabc554, type: 2}
+  - {fileID: 11400000, guid: 896c555ca5b640a4bbeb6c71dd80037d, type: 2}

@@ -4,4 +4,4 @@ are armed with wooden clubs.
 a1.Take on the bandits. gain yen, as well as a note from their captain, reads "With all these ronin around you are bound to run into one. If ya do ambush 'em and take
 Their blade. It'll fetch a good price"
 
-b1.Run away to a city
+a2.Run away to a city

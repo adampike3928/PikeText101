@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: E2
+  m_EditorClassIdentifier: 
+  strStoryText: 'You wake up. Hungry, alone, cold. You''ve hit a wall. And don''t
+    have many  choices left.
+
+
+    1. Steal food
+
+
+    2. Sell you''re sword'
+  nextStates:
+  - {fileID: 11400000, guid: 22c0fb2cdd90a1643ad2829009fa64db, type: 2}
+  - {fileID: 11400000, guid: 76ae145a9dea2444e91ee338a7914019, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: E1
+  m_EditorClassIdentifier: 
+  strStoryText: "You go on to raid the villege. You leave nothing and strick fericly
+    in the night. They were defenseless. But you're to far in to do anything. \n\n1.
+    Become what you hate\n\n2. Run away the first chance you get"
+  nextStates:
+  - {fileID: 11400000, guid: 3e1f6eb2397addc418928c34d9d70588, type: 2}
+  - {fileID: 11400000, guid: e3bd0af7e43fc824cba8bf6e90ed83b7, type: 2}

@@ -10,26 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
-  m_Name: startingstate
+  m_Name: '!Start'
   m_EditorClassIdentifier: 
   strStoryText: 'You find yourself face to face with a small group of banits. It
     dawns on you that the middle of a forest is no place to rest. There are 3. They
-    seem pretty scrawny and
+    seem pretty scrawny and are armed with wooden clubs.
 
-    are armed with wooden clubs.
 
-    
+    1.Take on the bandits
 
-    a1.Take
-    on the bandits. gain yen, as well as a note from their captain, reads "With all
-    these ronin around you are bound to run into one. If ya do ambush ''em and take
 
-    Their
-    blade. It''ll fetch a good price"
-
-    
-
-    a2.Run away to a city'
-  NextStates:
-  - {fileID: 11400000, guid: c146278c86f00004e868ff7880be9509, type: 2}
-  - {fileID: 11400000, guid: 31b7660ef4de444488914f513ec8f92d, type: 2}
+    2.Run
+    away to closest city'
+  nextStates:
+  - {fileID: 11400000, guid: 6c6f5bd65c8cb1b47a560cc1b3447a83, type: 2}
+  - {fileID: 11400000, guid: 15fa4c5d205c4bb4096a0e68ced0483b, type: 2}

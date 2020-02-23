@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
-  m_Name: Choice a2
+  m_Name: D4
   m_EditorClassIdentifier: 
-  strStoryText: This is option 2
-  NextStates: []
+  strStoryText: "He sighs. \"Well, afraid I can't do anything for you then. Oh well.
+    You can leave if you want, no need having men who don't wanna join.\" \n\n1.
+    Leave empty handed"
+  nextStates:
+  - {fileID: 11400000, guid: 22c0fb2cdd90a1643ad2829009fa64db, type: 2}

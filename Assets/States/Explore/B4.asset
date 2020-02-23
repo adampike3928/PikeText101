@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: B4
+  m_EditorClassIdentifier: 
+  strStoryText: 'No one wants your help. Even the mercinaries look at you in suspision.
+    You are out of options. You pull out the note, as its your only option!
+
+
+    1.Read
+    note'
+  nextStates:
+  - {fileID: 11400000, guid: 45618ee08adbed14ca6efdeedf58eda3, type: 2}

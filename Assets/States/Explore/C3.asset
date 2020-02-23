@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
+  m_Name: C3
+  m_EditorClassIdentifier: 
+  strStoryText: "You think for a moment and find it strange that this man would ask
+    for his men not to harm others. Maybe he's not that bad of a man. But the fact
+    he can't control his men makes him dangours by proxy.\n\n1. Give the not and
+    explain everything to an officer. \n\n2. Find this leader and confront him."
+  nextStates:
+  - {fileID: 11400000, guid: 1fccb888680e83a459645a2fcc40c078, type: 2}
+  - {fileID: 11400000, guid: 2603a87cabc89eb46bc847b7d39fbcdb, type: 2}
