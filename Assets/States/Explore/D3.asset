@@ -12,12 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b4acf8f69d7eae40b455ec6a16277e6, type: 3}
   m_Name: D3
   m_EditorClassIdentifier: 
-  strStoryText: "You find Kazuma Kuwabara tending bar. You place the not infront
-    of him. \n\"Not here\" he says \n\"Come to the back room\" \nHe speaks of how
-    he once was a rhonin as well, but the officers had become just as corrupt as
-    the bandits they \"protect\" the city from. He appoligizes for his men, then
-    goes to explain how hard it is to find honest men.\nHe ask you to join him. for
-    protection as well as money. \n\n1. Decline his offer \n\n2. Join his cause"
+  strStoryText: "You find Kazuma Kuwabara tending bar. You explain what happened
+    in the forest.\"That's a shame. The worst part about running a rebelion is keeping
+    rebles in check. You seem to have a good moral compass. Wanna join?\"\n1. Decline
+    his offer \n2. Join his cause"
   nextStates:
   - {fileID: 11400000, guid: f53d721cd7f6bbc46a88ba44a92aa4e1, type: 2}
   - {fileID: 11400000, guid: acd32e4ead1bdec4e9473046b363bfdf, type: 2}

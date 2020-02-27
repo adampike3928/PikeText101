@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: B3
   m_EditorClassIdentifier: 
   strStoryText: "You read the note. It reads \"Head back to our HQ in Osaka. This
-    time, please try to not hurt anyone. We're not mindless theifs. Meet me in the
-    back of my bar. Make sure you are not followed.\n-signed \nKazuma Kuwabara\"\n\n1.
-    Pursue the leader of the \"Bandits\" \n\n2. Report this too the authorities"
+    time, please try to not hurt anyone. We're not mindless theifs. signed \nKazuma
+    Kuwabara\"\n\n1. Pursue the leader of the \"Bandits\" \n\n2. Report this too
+    the authorities"
   nextStates:
   - {fileID: 11400000, guid: f84a64c8747509b4faf03072d6853aca, type: 2}
   - {fileID: 11400000, guid: f84a64c8747509b4faf03072d6853aca, type: 2}
